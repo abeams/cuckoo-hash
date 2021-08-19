@@ -330,6 +330,7 @@ ASALocalRun/
 .mfractor/
 
 *.vscode
+*.code-workspace
 
 # CMake files.
 */CMakeFiles/
@@ -342,4 +343,5 @@ ASALocalRun/
 
 # Built targets.
 libsealpir.a
+libcuckoo_hash.a
 
